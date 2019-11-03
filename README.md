@@ -1,2 +1,2 @@
 # evilpdf
-Incorporando arquivos executáveis ​​em documentos PDF
+Incorporando arquivos executáveis em documentos PDF
